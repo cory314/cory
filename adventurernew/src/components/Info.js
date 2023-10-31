@@ -4,7 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 
 
 const Info = () => {
-    const images = ["/DSCN0115.JPG", "/boat.JPG", "/DSCN0186.JPG", "/DSCN0133.JPG"];
+    const images = ["/DSCN0115.JPG", "/boat.jpg", "/DSCN0186.JPG", "/DSCN0133.JPG"];
     const [currentIndex, setCurrentIndex] = useState(0);
   
     useEffect(() => {

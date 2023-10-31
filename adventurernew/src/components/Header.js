@@ -14,7 +14,7 @@ const Header = () => {
       {/* Background */}
       <Image
         className="absolute inset-0 opacity-100 object-fit"
-        src="/DSCN0133.jpg"
+        src="/DSCN0133.JPG"
         alt="Background Image"
         layout="fill"
       />
