@@ -66,13 +66,13 @@ const Header = () => {
           {isMobileNavOpen && (
             <div className="bg-lightblue absolute top-full left-0 w-full">
               <nav className="flex flex-col">
-                <Link href="/pricing" passHref>
+                <Link href="#adventures" passHref>
                   Pricing
                 </Link>
-                <Link href="/booking" passHref>
+                <Link href="mailto:info@adventurerflorida.com" passHref>
                   Booking
                 </Link>
-                <Link href="/about-us" passHref>
+                <Link href="#about" passHref>
                   About Us
                 </Link>
               </nav>

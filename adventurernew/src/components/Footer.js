@@ -10,7 +10,7 @@ export default function Footer() {
           <Link href="mailto:info@adventurerflorida.com" className="mr-4 hover:underline">
             Book Now
           </Link>
-          <Link href="/contact" className="hover:underline">
+          <Link href="mailto:info@adventurerflorida.com" className="hover:underline">
             Contact Us
           </Link>
         </div>
