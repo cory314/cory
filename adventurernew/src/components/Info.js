@@ -26,7 +26,7 @@ const Info = () => {
             <h2 className="text-gray-800 text-2xl md:text-4xl font-bold mb-4 text-center">Adventures:</h2>
             <ul className="text-center space-y-2">
               <li className="text-gray-800 text-lg md:text-xl"><span className="font-medium">Sunset Cruises:</span> $129.95 per person (up to 6 people)</li>
-              <li className="text-gray-800 text-lg md:text-xl"><span className="font-medium">Snorkel Trips to Sombrero Reef:</span> $129.95 per person (up to 6 people)</li>
+              <li className="text-gray-800 text-lg md:text-xl"><span className="font-medium">Snorkel Trips to Sombrero Reef:</span> Contact for Pricing (up to 6 people)</li>
               <li className="text-gray-800 text-lg md:text-xl"><span className="font-medium">Choose your own Adventure:</span> Contact for Pricing (up to 6 people)</li>
             </ul>
           </div>
