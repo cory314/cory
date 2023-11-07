@@ -36,7 +36,7 @@ const Header = () => {
         >
           <FaFacebookF className="text-2xl text-white" />
         </a>
-        <a href="mailto:info@adventurerflorida.com">
+        <a href="mailto:bookadvfla@outlook.com">
           <FaEnvelope className="text-2xl text-white" />
         </a>
         <a href="tel:6018504357">
@@ -51,7 +51,7 @@ const Header = () => {
           <Link className="text-white" href="#adventures" passHref>
             Pricing
           </Link>
-          <Link href="mailto:info@adventurerflorida.com" passHref>
+          <Link href="mailto:bookadvfla@outlook.com" passHref>
             Booking
           </Link>
           <Link href="#about" passHref>
@@ -69,7 +69,7 @@ const Header = () => {
                 <Link href="#adventures" passHref>
                   Pricing
                 </Link>
-                <Link href="mailto:info@adventurerflorida.com" passHref>
+                <Link href="mailto:bookadvfla@outlook.com" passHref>
                   Booking
                 </Link>
                 <Link href="#about" passHref>
