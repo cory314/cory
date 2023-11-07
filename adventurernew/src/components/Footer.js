@@ -7,10 +7,10 @@ export default function Footer() {
     <div className="bg-blue-500 text-white p-6">
       <div className="flex justify-center items-center mb-4">
         <div className="flex">
-          <Link href="mailto:info@adventurerflorida.com" className="mr-4 hover:underline">
+          <Link href="mailto:bookadvfla@outlook.com" className="mr-4 hover:underline">
             Book Now
           </Link>
-          <Link href="mailto:info@adventurerflorida.com" className="hover:underline">
+          <Link href="mailto:bookadvfla@outlook.com" className="hover:underline">
             Contact Us
           </Link>
         </div>
@@ -21,7 +21,7 @@ export default function Footer() {
       </div>
       <div className="flex justify-center">
         <Link
-          href="mailto:info@adventurerflorida.com"
+          href="mailto:bookadvfla@outlook.com"
           target="_blank"
           rel="noopener noreferrer"
           className="mr-4 text-2xl"

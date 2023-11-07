@@ -2,7 +2,7 @@ import { FaAnchor } from "react-icons/fa"; // Import the anchor icon from Font A
 
 
 export default function Book() {
-    const emailAddress = "mailto:info@adventurerflorida.com"; // Replace this with your desired email address
+    const emailAddress = "mailto:bookadvfla@outlook.com"; // Replace this with your desired email address
   
     return (
       <div className="fixed bottom-4 right-2 transform -translate-x-1/2 z-20">
